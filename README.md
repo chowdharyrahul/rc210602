@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **rc210602/rc210602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I'm Rahul Chowdhary<br>
+🔭 I am interested in Software Development and Cloud Conputing<br>
+🌱 I’m currently learning Software Development and Network Engineering at Sheridan College<br>
+📫 How to reach me <a href = "rahulchowdhary529@gmail.com">rahulchowdhary529@gmail.com</a>
+
+
+  
