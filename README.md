@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👋 Hi, I'm Rahul Chowdhary<br>
-🔭 I am interested in Software Development and Cloud Conputing<br>
+🔭 I am interested in Software Development and Cloud Computing<br>
 🌱 I’m currently learning Software Development and Network Engineering at Sheridan College<br>
 📫 How to reach me <a href = "rahulchowdhary529@gmail.com">rahulchowdhary529@gmail.com</a>
 
