@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rc210602&show_icons=true&locale=en&layout=compact" alt="rc210602" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chowdharyrahul&show_icons=true&locale=en&layout=compact" alt="rc210602" /></p>
 
 
 
